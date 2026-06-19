@@ -95,13 +95,7 @@ The project integrates Groq LLM to generate intelligent logistics recommendation
 
 👨‍💻 Author
 
-Kiruthiga J
-
-🎓 BE Electronics and Communication Engineering
-
-📚 Data Science Enthusiast
-
-💻 Python | SQL | Machine Learning | Deep Learning | Power BI
+Arun
 
 ⭐ Project Outcome
 
